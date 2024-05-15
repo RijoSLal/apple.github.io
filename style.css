@@ -259,6 +259,7 @@ body{
     display:flex;
     height: 650px;
     margin-top: -52px;
+    scrollbar-width: none;
 
 
 }
@@ -280,7 +281,7 @@ body{
     display:flex;
     height: 530px;
     margin-top: -55px;
-   
+    scrollbar-width: none;
 
     
 }
@@ -382,6 +383,7 @@ body{
     scroll-behavior: smooth;
     overflow-x: auto;
     margin-top: -65px;
+    scrollbar-width: none;
 
 
     
@@ -437,6 +439,7 @@ body{
     scroll-behavior: smooth;
     height: 530px;
     margin-top: -60px;
+    scrollbar-width: none;
     
 
 }
